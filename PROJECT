@@ -1,0 +1,9 @@
+domain: wmalyk28
+layout:
+- go.kubebuilder.io/v3
+plugins:
+  manifests.sdk.operatorframework.io/v2: {}
+  scorecard.sdk.operatorframework.io/v2: {}
+projectName: cloudnfv-operator
+repo: github.com/wmalyk28/cloudnfv-operator
+version: "3"
